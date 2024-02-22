@@ -1,3 +1,4 @@
 ## Github_tests
 
-To repozytorium będzie służyć do ćwiczeń związanych z usługami kontroli wersji
+To repozytorium będzie służyć do ćwiczeń związanych z usługami kontroli wersji.
+Dodanie zmiany.
